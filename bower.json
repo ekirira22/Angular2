@@ -1,0 +1,22 @@
+{
+  "name": "angular2",
+  "description": "Basically a small project to explain hoe to create an angular2 environment and how to work around it",
+  "main": "index.js",
+  "authors": [
+    "Eric Kirira Maranga"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ekirira22/Angular2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}

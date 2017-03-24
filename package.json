@@ -1,0 +1,35 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "Basically a small project to explain hoe to create an angular2 environment and how to work around it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekirira22/Angular2.git"
+  },
+  "author": "Eric Kirira Maranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekirira22/Angular2/issues"
+  },
+  "homepage": "https://github.com/ekirira22/Angular2#readme",
+  "devDependencies": {
+    "bower-files": "^3.14.1",
+    "browser-sync": "^2.18.8",
+    "browserify": "^2.36.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.8.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
